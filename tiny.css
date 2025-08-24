@@ -1,0 +1,18 @@
+h1{
+    margin:auto;
+    width: 0%;
+    font-size: 64px;
+    border: 2px solid black;
+    
+    
+    
+}
+body{
+    background-color: #F0F0F0;
+}
+
+p{
+    color: #333333;
+    font-style: normal;
+    font-size: 1.5em;
+}
